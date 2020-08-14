@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "JavaScript Post",
+      "body": "Sed ut perspiciatis unde omnis iste natus error eatae vitae dicta sunt explicabo."
+    },
+    {
+      "id": 2,
+      "title": "NextJS Post",
+      "body": "Het lo jerol perspiciatis unde dios iste cta sunt explicabo."
+    },
+    {
+      "id": 3,
+      "title": "React Post",
+      "body": "React is library for building users interfaces"
+    }
+  ]
+}
